@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    background: #f9f9f9;
+    margin: 0;
+    padding: 0;
+    color: #333;
+  }
+  
+  header {
+    background-color: #2f4f2f;
+    color: white;
+    padding: 1em;
+  }
+  
+  nav a {
+    margin-right: 1em;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .main-header {
+    background-image: url("../img/Image.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 100px 20px;
+    text-align: center;
+  }
+  
+  .main-header h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+  }
+  
+  nav a {
+    margin: 0 1em;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
